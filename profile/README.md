@@ -1,6 +1,6 @@
 # jbscratch 
 
-A personal github org for experimentations by [@bjesuiter]. 
+A personal github org for experimentations by [@bjesuiter](https://github.com/bjesuiter). 
 
 If you want to see more stable repos, please go to 
 
